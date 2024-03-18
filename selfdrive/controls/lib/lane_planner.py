@@ -7,7 +7,7 @@ from common.realtime import DT_MDL
 TRAJECTORY_SIZE = 33
 
 ENABLE_ZORROBYTE = True
-CAMERA_OFFSET = -0.06
+CAMERA_OFFSET = -0.25
 PATH_OFFSET = 0.0
 
 class LanePlanner:
